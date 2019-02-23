@@ -5,4 +5,4 @@
 
 
 ## Решение
-[writeup.txt](writeup.txt)
+[writeup.md](writeup.md)
